@@ -37,6 +37,3 @@ I'm a **Lead Software Engineer** with over **10 years of experience** in buildin
 💼 LinkedIn: [linkedin.com/in/mrashutoshnigam](https://www.linkedin.com/in/mrashutoshnigam/)  
 📍 Hyderabad, Telangana, India  
 
----
-
-Would you like to add any GitHub stats, pinned projects, or contributions to this? 🚀
