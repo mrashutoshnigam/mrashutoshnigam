@@ -1,24 +1,42 @@
-# Ashutosh Nigam 👋
+# Hi, I'm Ashutosh Nigam! 👋  
 
-## About Me 🚀
+## 🚀 About Me  
 
-Highly motivated and experienced Software Engineer specializing in .NET, Python, and cloud technologies (AWS, Azure) ☁️. Expertise in Artificial Intelligence (AI 🤖) and Machine Learning (ML). Proven ability to design and implement scalable solutions 📈 and robust APIs 🔗. Committed to continuous learning 📚 and staying at the forefront of emerging technologies to deliver innovative and impactful results ✨.
+I'm a **Lead Software Engineer** with over **10 years of experience** in building scalable, high-performance applications. My expertise spans across **.NET, Python, cloud platforms (AWS & Azure), AI, and Machine Learning**. Passionate about solving complex problems, optimizing systems, and driving innovation through technology.  
 
-## Contact 📧
+💡 Currently pursuing **MTech in AI at IIT Jodhpur** while leading impactful projects at **S&P Global**.  
+📚 Always learning and exploring emerging technologies in **Generative AI, Graph Databases, and Cloud Computing**.  
 
-- mrashutoshnigam@gmail.com
-- mrashutoshnigam@outlook.com
-- [www.mrashutoshnigam.in](http://www.mrashutoshnigam.in) 🌐
-- [LinkedIn](https://www.linkedin.com/in/mrashutoshnigam/) 💼
-- Hyderabad, Telangana, India 📍
+---
 
-## Skills 💻
+## 🛠️ Tech Stack  
 
-- **Programming Languages**: C# 🔷, .NET, .NET Core, VB.NET, Python 🐍, PHP, JavaScript, TypeScript, IronPython
-- **Web Technologies**: ASP.NET, MVC, Web API, REST, GraphQL, HTML, CSS, Bootstrap, React
-- **Cloud Platforms**: Microsoft Azure ☁️, Amazon Web Services (AWS) ☁️
-- **Databases**: SQL Server, MySQL, PostgreSQL, AWS Neptune (Graph DB), SPARQL, AWS Aurora, RDS
-- **AI & ML**: PyTorch 🔥, Llama3.1, ChatGPT4o, Phi3, Ollama, Machine Learning Algorithms 🧠
-- **DevOps**: Docker 🐳, Kubernetes ☸️, Azure DevOps, Jenkins, Ansible
-- **Business Intelligence**: Power BI, SSRS, SSIS 📊
-- **Middleware**: ADO.NET, Entity Framework, Dapper, Telerik Data Access
+### **Languages & Frameworks**  
+🔹 **.NET (C#, .NET Core, VB.NET)**  
+🔹 **Python (Django, FastAPI, Flask)**  
+🔹 JavaScript, TypeScript, PHP  
+🔹 **Web Technologies**: ASP.NET, MVC, Web API, GraphQL, React, HTML, CSS, Bootstrap  
+
+### **Databases & Storage**  
+🗄️ **SQL**: SQL Server, PostgreSQL, MySQL, AWS Aurora, RDS  
+🕸 **Graph Databases**: Neo4j, AWS Neptune (Graph DB), SPARQL  
+🗂️ **ORMs**: Entity Framework, Dapper, Telerik Data Access  
+
+### **Cloud & DevOps**  
+☁️ **Cloud Platforms**: Microsoft Azure, AWS (EC2, Lambda, RDS, S3)  
+🐳 **DevOps & CI/CD**: Docker, Kubernetes, Azure DevOps, Jenkins, Ansible  
+
+### **AI & Machine Learning**  
+🤖 **Deep Learning**: PyTorch, Transformers (Llama 3, ChatGPT, Phi-3, Ollama)  
+📈 **ML & NLP**: Machine Learning Algorithms, Data Analytics  
+📊 **BI & Data Tools**: Power BI, SSRS, SSIS  
+
+---
+📧 Email: [mrashutoshnigam@gmail.com](mailto:mrashutoshnigam@gmail.com) | [mrashutoshnigam@outlook.com](mailto:mrashutoshnigam@outlook.com)  
+🌐 Website: [www.mrashutoshnigam.in](http://www.mrashutoshnigam.in)  
+💼 LinkedIn: [linkedin.com/in/mrashutoshnigam](https://www.linkedin.com/in/mrashutoshnigam/)  
+📍 Hyderabad, Telangana, India  
+
+---
+
+Would you like to add any GitHub stats, pinned projects, or contributions to this? 🚀
