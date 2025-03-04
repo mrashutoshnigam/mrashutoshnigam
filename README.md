@@ -2,9 +2,9 @@
 
 ## 🚀 About Me  
 
-I'm a **Lead Software Engineer** with over **10 years of experience** in building scalable, high-performance applications. My expertise spans across **.NET, Python, cloud platforms (AWS & Azure), AI, and Machine Learning**. Passionate about solving complex problems, optimizing systems, and driving innovation through technology.  
+I'm a **Principal Software Engineer** with over **10+ years of experience** in building scalable, high-performance applications. My expertise spans across **.NET, Python, cloud platforms (AWS & Azure), AI, and Machine Learning**. Passionate about solving complex problems, optimizing systems, and driving innovation through technology.  
 
-💡 Currently pursuing **MTech in AI at IIT Jodhpur** while leading impactful projects at **S&P Global**.  
+💡 Currently pursuing **MTech in AI at IIT Jodhpur** while leading impactful projects at **Blackbaud**.  
 📚 Always learning and exploring emerging technologies in **Generative AI, Graph Databases, and Cloud Computing**.  
 
 ---
