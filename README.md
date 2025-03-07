@@ -32,7 +32,6 @@ I'm a **Principal Software Engineer** with over **10+ years of experience** in b
 📊 **BI & Data Tools**: Power BI, SSRS, SSIS  
 
 ---
-📧 Email: [mrashutoshnigam@gmail.com](mailto:mrashutoshnigam@gmail.com) | [mrashutoshnigam@outlook.com](mailto:mrashutoshnigam@outlook.com)  
 🌐 Website: [www.mrashutoshnigam.in](http://www.mrashutoshnigam.in)  
 💼 LinkedIn: [linkedin.com/in/mrashutoshnigam](https://www.linkedin.com/in/mrashutoshnigam/)  
 📍 Hyderabad, Telangana, India  
