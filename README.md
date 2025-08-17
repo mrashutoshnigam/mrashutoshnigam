@@ -1,38 +1,73 @@
-# Hi, I'm Ashutosh Nigam! 👋  
+# Hi 👋, I'm Ashutosh Nigam
+### A passionate software engineer from India, specializing in architecting scalable solutions with a blend of .NET, cloud technologies, and AI/ML innovations.
 
-## 🚀 About Me  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrashutoshnigam&label=Profile%20views&color=0e75b6&style=flat" alt="mrashutoshnigam" /> </p>
 
-I'm a **Principal Software Engineer** with over **10+ years of experience** in building scalable, high-performance applications. My expertise spans across **.NET, Python, cloud platforms (AWS & Azure), AI, and Machine Learning**. Passionate about solving complex problems, optimizing systems, and driving innovation through technology.  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrashutoshnigam" alt="mrashutoshnigam" /></a> </p>
 
-💡 Currently pursuing **MTech in AI at IIT Jodhpur** while leading impactful projects at **Blackbaud**.  
-📚 Always learning and exploring emerging technologies in **Generative AI, Graph Databases, and Cloud Computing**.  
+<p align="left"> <a href="https://twitter.com/mrashutoshnigam" target="blank"><img src="https://img.shields.io/twitter/follow/mrashutoshnigam?logo=twitter&style=for-the-badge" alt="mrashutoshnigam" /></a> </p>
 
----
+- 🔭 I’m currently working at **Blackbaud** on **JustGiving.com**, enhancing charity fundraising platforms with RESTful APIs and scalable integrations.
 
-## 🛠️ Tech Stack  
+- 🌱 I’m pursuing **M.Tech in Artificial Intelligence** at IIT Jodhpur and learning advanced AI/ML tools like **TensorFlow, Scikit-learn, and PyTorch**.
 
-### **Languages & Frameworks**  
-🔹 **.NET (C#, .NET Core, VB.NET)**  
-🔹 **Python (Django, FastAPI, Flask)**  
-🔹 JavaScript, TypeScript, PHP  
-🔹 **Web Technologies**: ASP.NET, MVC, Web API, GraphQL, React, HTML, CSS, Bootstrap  
+- 👨‍💻 Explore my projects at [mrashutoshnigam.in](https://mrashutoshnigam.in/).
 
-### **Databases & Storage**  
-🗄️ **SQL**: SQL Server, PostgreSQL, MySQL, AWS Aurora, RDS  
-🕸 **Graph Databases**: Neo4j, AWS Neptune (Graph DB), SPARQL  
-🗂️ **ORMs**: Entity Framework, Dapper, Telerik Data Access  
+- 📝 I regularly write articles on [mrashutoshnigam.in](https://mrashutoshnigam.in/).
 
-### **Cloud & DevOps**  
-☁️ **Cloud Platforms**: Microsoft Azure, AWS (EC2, Lambda, RDS, S3)  
-🐳 **DevOps & CI/CD**: Docker, Kubernetes, Azure DevOps, Jenkins, Ansible  
+- 📫 Reach me at **mrashutoshnigam@gmail.com**.
 
-### **AI & Machine Learning**  
-🤖 **Deep Learning**: PyTorch, Transformers (Llama 3, ChatGPT, Phi-3, Ollama)  
-📈 **ML & NLP**: Machine Learning Algorithms, Data Analytics  
-📊 **BI & Data Tools**: Power BI, SSRS, SSIS  
+- 📄 View my full experience on [LinkedIn](https://www.linkedin.com/in/mrashutoshnigam/).
 
----
-🌐 Website: [www.mrashutoshnigam.in](http://www.mrashutoshnigam.in)  
-💼 LinkedIn: [linkedin.com/in/mrashutoshnigam](https://www.linkedin.com/in/mrashutoshnigam/)  
-📍 Hyderabad, Telangana, India  
+- ⚡ Fun fact: I blend code with creativity, using tools like Photoshop and DaVinci Resolve for digital art and video editing.
 
+### Key Achievements
+- Led delivery of 10+ applications with a 98% on-time rate.
+- Achieved 98% uptime for enterprise applications, saving 40% in operational costs.
+- Improved data processing efficiency by 60%, handling 20 GB+ daily datasets.
+- Reduced transaction time by 30%, supporting 25,000+ daily operations.
+
+### Experience
+- **Principle Software Engineer at Blackbaud** (Hyderabad, March 2025 - Present): Developing and enhancing RESTful APIs for JustGiving, improving platform performance and scalability.
+- **Lead Software Engineer at S&P Global** (Hyderabad, December 2019 - March 2025): Designed data pipelines achieving 60% efficiency gains; managed 6,000+ daily jobs with Airflow; developed API Code Generator Tool.
+- **Software Engineer at NCR Corporation** (Hyderabad, August 2015 - December 2019): Optimized Point of Sale systems, reducing transaction times by 30% and downtime by 65%.
+- **Software Developer at Threshold Software Solutions** (Hyderabad, June 2014 - June 2015): Built responsive web apps improving UX by 30%; optimized SQL queries.
+
+### Education
+- **M.Tech in Artificial Intelligence**, Indian Institute of Technology, Jodhpur (January 2025 - February 2027): Pursuing advanced studies in AI, focusing on cutting-edge applications in software engineering.
+- **MCA in Artificial Intelligence and Machine Learning**, Amity University, Noida (January 2022 - December 2024): Completed specialized training in AI/ML, equipping me with foundational knowledge in intelligent systems and data-driven technologies.
+
+### Projects
+Here are some of my highlighted repositories:
+- **[FilesManager](https://github.com/mrashutoshnigam/FilesManager)**: A Windows tool for organizing files, images, videos, and documents using metadata. (C#)
+- **[Youtube_Summary_Generator](https://github.com/mrashutoshnigam/Youtube_Summary_Generator)**: Web app generating summaries of YouTube videos using Llama 2 LLM. (HTML, Python)
+- **[EverypixelKeywordGenerator](https://github.com/mrashutoshnigam/EverypixelKeywordGenerator)**: Tool for analyzing image metadata and generating relevant keywords. (C#)
+- **[CardGrid](https://github.com/mrashutoshnigam/CardGrid)**: jQuery plugin for creating grid controls with card and table views based on JSON data. (C#)
+- **[Files](https://github.com/mrashutoshnigam/Files)**: Forked modern file manager for organizing files and folders. (C#) *Pinned*
+
+For more, check out my [repositories](https://github.com/mrashutoshnigam?tab=repositories).
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://kaggle.com/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://fb.com/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://instagram.com/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://medium.com/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mrashutoshnigam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mrashutoshnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mrashutoshnigam" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrashutoshnigam&show_icons=true&locale=en&layout=compact" alt="mrashutoshnigam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrashutoshnigam&show_icons=true&locale=en" alt="mrashutoshnigam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrashutoshnigam&" alt="mrashutoshnigam" /></p>
