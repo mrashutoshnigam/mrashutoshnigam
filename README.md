@@ -44,11 +44,24 @@
 ### Languages and Tools I Work On:
 **Languages**  
 ![Static Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**.NET Ecosystem**  
+![Static Badge](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=dotnet&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Static Badge](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Static Badge](https://img.shields.io/badge/WCF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **AI and ML**  
 ![Static Badge](https://img.shields.io/badge/Artificial%20Intelligence-0A192F?style=for-the-badge&logo=openai&logoColor=white)
@@ -58,6 +71,9 @@
 ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 **Frameworks and Runtime**  
 ![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -65,16 +81,26 @@
 ![Static Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
+![Static Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Telerik%20Kendo%20UI-5CE500?style=for-the-badge&logo=telerik&logoColor=black)
 
 **Cloud and DevOps**  
 ![Static Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20Neptune-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 
 **Databases and Messaging**  
 ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -83,9 +109,18 @@
 ![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GraphDB-1A73E8?style=for-the-badge&logo=graphql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SPARQL-5C2D91?style=for-the-badge&logo=wikidata&logoColor=white)
 
-**Tools**  
+**Reporting and BI**  
+![Static Badge](https://img.shields.io/badge/Crystal%20Reports-0B5CAB?style=for-the-badge&logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Tools and Practices**  
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SEQ-3B82F6?style=for-the-badge&logo=datadog&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Design%20Patterns-0F172A?style=for-the-badge&logo=bookstack&logoColor=white)
