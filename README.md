@@ -6,8 +6,8 @@
 ### M.Tech AI @ IIT Jodhpur &nbsp;|&nbsp; Building scalable platforms at [Blackbaud](https://www.blackbaud.com/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mrashutoshnigam&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/mrashutoshnigam)
-[![Followers](https://img.shields.io/github/followers/mrashutoshnigam?label=Followers&style=flat&color=0e75b6)](https://github.com/mrashutoshnigam?tab=followers)
-
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mrashutoshnigam&query=$.public_repos&label=Public%20Repos&style=flat&logo=github&color=green)
+![Total Repos](https://img.shields.io/badge/Total%20Repos-107-orange?style=flat&logo=github)
 </div>
 
 ---
