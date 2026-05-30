@@ -127,7 +127,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrashutoshnigam&theme=tokyonight&hide_border=true)
+  
+<a href="https://github-readme-stats-fast.vercel.app/api/streak?username=mrashutoshnigam">
+  <img height=200  align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mrashutoshnigam&layout=compact&theme=neon" />
+</a>
+<a href="https://github.com/mrashutoshnigam/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mrashutoshnigam&layout=compact&langs_count=8&theme=neon" />
+</a>
 
 </div>
