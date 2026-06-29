@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building and scaling APIs for **[JustGiving.com](https://www.justgiving.com/)** at **Blackbaud**
+- 🔭 Currently building and scaling APIs for **[JustGiving.com](https://www.justgiving.com/)** at [**Blackbaud**](https://www.blackbaud.com/)
 - 🌱 Researching practical **AI/ML for production systems** — M.Tech AI @ [IIT Jodhpur](https://www.iitj.ac.in/)
 - 🧠 Passionate about **LLMs, data pipelines, graph databases, and API design**
 - 🎨 Creative side: digital art & video editing with **Photoshop** and **DaVinci Resolve**
