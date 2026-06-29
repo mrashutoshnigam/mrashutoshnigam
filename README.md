@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building and scaling APIs for **[JustGiving.com](https://www.justgiving.com/)** at **Blackbaud**
-- 🌱 Researching practical **AI/ML for production systems** — M.Tech AI @ IIT Jodhpur
+- 🌱 Researching practical **AI/ML for production systems** — M.Tech AI @ [IIT Jodhpur](https://www.iitj.ac.in/)
 - 🧠 Passionate about **LLMs, data pipelines, graph databases, and API design**
 - 🎨 Creative side: digital art & video editing with **Photoshop** and **DaVinci Resolve**
 - 🌐 Portfolio: [mrashutoshnigam.in](https://mrashutoshnigam.in/) &nbsp;|&nbsp; 📫 mrashutoshnigam@gmail.com
