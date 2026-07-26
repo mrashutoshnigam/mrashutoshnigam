@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mrashutoshnigam&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/mrashutoshnigam)
 [![Followers](https://img.shields.io/github/followers/mrashutoshnigam?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/mrashutoshnigam?tab=followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mrashutoshnigam&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=green)
-![Total Repos](https://img.shields.io/badge/Total%20Repos-132-orange?style=for-the-badge&logo=github)
+![Total Repos](https://img.shields.io/badge/Total%20Repos-133-orange?style=for-the-badge&logo=github)
 
 </div>
 
