@@ -18,7 +18,7 @@
 - 🎓 M.Tech in Artificial Intelligence @ **[IIT Jodhpur](https://www.iitj.ac.in/)**
 - 🌱 Researching practical **AI/ML for production systems** — LLMs, RAG, agentic workflows
 - 🧠 Deep interest in **data pipelines, graph databases, distributed systems, and API design**
-- 🎨 Creative side: digital art & video editing with **Photoshop** and **DaVinci Resolve**
+- 🎨 Creative side: digital art & video editing with **Adobe Photoshop** and **DaVinci Resolve**
 - ✍️ I write about engineering & AI on **[my website](https://mrashutoshnigam.in/)**
 - 🌐 Portfolio: **[mrashutoshnigam.in](https://mrashutoshnigam.in/)** &nbsp;|&nbsp; 📫 **mrashutoshnigam@gmail.com**
 
