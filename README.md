@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Principal+Software+Engineer;.NET+%7C+Python+%7C+AI%2FML;Building+scalable+platforms+at+Blackbaud;M.Tech+AI+%40+IIT+Jodhpur" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mrashutoshnigam&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/mrashutoshnigam)
-[![Followers](https://img.shields.io/github/followers/mrashutoshnigam?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/mrashutoshnigam?tab=followers)
+[![Followers](https://img.shields.io/github/followers/mrashutoshnigam?label=Followers&style=for-the-badge&color=green)](https://github.com/mrashutoshnigam?tab=followers)
 ![Total Repos](https://img.shields.io/badge/Total%20Repos-143-orange?style=for-the-badge&logo=github)
 
 </div>
